@@ -1,1 +1,3 @@
-# Vrinda-store-Sales Analysis
+# Vrinda-store
+Dashboard end to end project
+Insights
